@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="promotion">
+        <item>1 : คำนวณแบบอัตราดอกเบี้ยคงที่</item>
+        <item>2 : คำนวณแบบลดต้นลดดอก</item>
+        <item>3: </item>
+    </string-array>
+</resources>
